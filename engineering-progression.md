@@ -20,6 +20,8 @@ We have basically five levels of engineering positions - ranging from _junior_ t
 
 You would also find that most of the levels indicate experience levels (as counted in years) significantly higher than industry standards these days (at least in Poland, where we are based). It is not uncommon to see engineers with _senior_ titles who have e.g. less than 3 years of experience under their belt and worked only with single technology or single type of software (say intranet web application). While we certainly believe this is technically possible we are rather sceptical and are deliberately trying to avoid _title inflation_.  
 
+Levels from _junior_ to _mid-level_ proceed sequentially. This is however not the case for _lead_ position. Although typically engineers progress from _senior_ to _lead_ positions this does not need to be the case in every case. As _lead_ position requires more organizational / management skills, therefore it is not simply a straightforward progression from _senior_ level. Nor it is a desired career progression for every engineer. 
+
 ![Progression Chart](img/progression.png)
 
 #### Junior engineer
