@@ -22,6 +22,12 @@ You would also find that most of the levels indicate experience levels (as count
 
 #### Junior engineer
 
+* Understands most of typical features of given programming language together with most common patterns and approaches.
+* Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
+* Requires thorough code review and clear guidelines of what needs to be done.
+* Experience: usually up to 2 years of professional experience within given domain.
+
+
 #### Regular engineer
 
 #### Mid-level engineer
