@@ -39,18 +39,18 @@ You would also find that most of the levels indicate experience levels (as count
 * Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Can strike balance between good engineering practice and overengineering. 
 * Can pick tools / processes for given project. Is able to clearly pinpoint specific tradeoffs in technical decision and communicate them clearly to customers or project stakeholders. Can grasp the business domain of a given project. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups). Usually participates in recruitment processes.
 * Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components.
-* Experience: Usually at least 4-7 years of professional experience **and** worked with multiple technologies / domains. 
+* Experience: Usually at least 5-8 years of professional experience **and** worked with multiple technologies / domains. 
 
 #### Senior engineer
 
-* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains.
-* Can pick tools / processes for given project. Clearly communicates with customers or project stakeholders. Interacts & drives outside contractors if needed. Actively seeks in-depth understanding of business domain of particular project. Can consult technical / organization decisions for several projects. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
+* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains. Exceptional technical understanding.
+* Can pick tools / processes for given project. Clearly communicates with customers or project stakeholders. Interacts & drives outside contractors if needed. Actively seeks in-depth understanding of business domain of particular project. Can consult technical / organization decisions for several projects. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
 * Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components. Drives recruitment efforts and participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
-* Experience: Usually at least 7+ years of professional experience within various technological / business domains.
+* Experience: Usually at least 8+ years of professional experience within various technological / business domains.
 
 #### Lead engineer
 
-* d
-* d
-* Scope of work: 
+* High level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering team or teams. 
+* Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards.  
+* Scope of work: Responsible for leading single or cross functional team(s). Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. 
 * Experience: Usually at least 10+ years of professional experience within various technological / business domains. Solid experience in team leading positions. 
