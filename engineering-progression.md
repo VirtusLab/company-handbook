@@ -51,6 +51,6 @@ You would also find that most of the levels indicate experience levels (as count
 #### Lead engineer
 
 * High level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering team or teams. 
-* Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards.  
-* Scope of work: Responsible for leading single or cross functional team(s). Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. 
+* Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
+* Scope of work: Responsible for leading single or cross functional team(s). Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. Participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
 * Experience: Usually at least 10+ years of professional experience within various technological / business domains. Solid experience in team leading positions. 
