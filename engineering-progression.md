@@ -20,6 +20,8 @@ We have basically five levels of engineering positions - ranging from _junior_ t
 
 You would also find that most of the levels indicate experience levels (as counted in years) significantly higher than industry standards these days (at least in Poland, where we are based). It is not uncommon to see engineers with _senior_ titles who have e.g. less than 3 years of experience under their belt and worked only with single technology or single type of software (say intranet web application). While we certainly believe this is technically possible we are rather sceptical and are deliberately trying to avoid _title inflation_.  
 
+![Progression Chart](img/progression.png)
+
 #### Junior engineer
 
 * Understands most of typical features of given programming language together with most common patterns and approaches.
