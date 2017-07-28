@@ -43,7 +43,11 @@ You would also find that most of the levels indicate experience levels (as count
 
 #### Senior engineer
 
-* Experience: usually at least 7+ years of professional experience within given domain.
+* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains.
+* Can pick tools / processes for given project. Clearly communicates with customers or project stakeholders. Interacts with outside contractors. Actively seeks in-depth understanding of business domain of particular project. Can consult technical / organization decisions for several projects. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups). Drives recruitment efforts and participates in decions of position progress of other engineers. Is able to make decisions under uncertainity or in situations where complete information is unavailable. Understands economic drivers and often participates in tactical / strategic decision making processes.
+
+* Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components.
+* Experience: Usually at least 7+ years of professional experience within various technological / business domains.
 
 #### Lead engineer
 
