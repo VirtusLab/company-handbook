@@ -18,7 +18,7 @@ Progression level is basically a fancy term for _job title_. It mostly reflects 
 
 We have basically five levels of engineering positions - ranging from _junior_ to _lead_. Truth be said, although we mostly hire engineers from _regular_ up to _lead_ positions continously, we rather do not keep the same pace with _junior_ positions. We only open _junior_ position recruitment from time to time. While we recognize the value of bringing _junior_ engineers on board we would like to maintain the level of experienced professionals in our ranks to be the significant majority. 
 
-You would also find that most of the levels indicate experience levels (as counted in years) significantly higher then industry standards these days (at least in Poland, when we are based). It is not uncommon to see engineers with _senior_ titles who have e.g. less than 3 years of experience under their belt. While we certainly believe this is techinically possible we are rather sceptical and are deliberetely trying to avoid such _title inflation_.  
+You would also find that most of the levels indicate experience levels (as counted in years) significantly higher then industry standards these days (at least in Poland, where we are based). It is not uncommon to see engineers with _senior_ titles who have e.g. less than 3 years of experience under their belt and worked only with single technology or single type of software (say intranet web application). While we certainly believe this is techinically possible we are rather sceptical and are deliberetely trying to avoid _title inflation_.  
 
 #### Junior engineer
 
