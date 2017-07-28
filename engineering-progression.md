@@ -23,15 +23,25 @@ You would also find that most of the levels indicate experience levels (as count
 #### Junior engineer
 
 * Understands most of typical features of given programming language together with most common patterns and approaches.
-* Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
-* Requires thorough code review and clear guidelines of what needs to be done.
-* Experience: usually up to 2 years of professional experience within given domain.
-
+* Requires thorough code review and clear guidelines of what needs to be done next.
+* Scope of work: Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
+* Experience: Usually at least 2 years of professional experience within given domain.
 
 #### Regular engineer
 
+* Is proficient with language & tools of choice. Not only understands particular features but can also pick the right technique / tool for a given job.
+* Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. Actively seeks knowledge. 
+* Scope of work: Mostly project related related work. Capable of designing new feature with cooperation of more senior engineers. Is able to design architecture on feature/component level assuming requirements are known. 
+* Experience: Usually at least 2-5 years of professional experience within given domain.
+
 #### Mid-level engineer
+
+* Experience: usually at least 4-7 years of professional experience within given domain.
 
 #### Senior engineer
 
+* Experience: usually at least 7+ years of professional experience within given domain.
+
 #### Lead engineer
+
+* Experience: usually at least 10+ years of professional experience within given domain.
