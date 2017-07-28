@@ -23,20 +23,23 @@ You would also find that most of the levels indicate experience levels (as count
 #### Junior engineer
 
 * Understands most of typical features of given programming language together with most common patterns and approaches.
-* Requires thorough code review and clear guidelines of what needs to be done next.
+* Requires thorough code review and clear guidelines of what needs to be done next. Actively seeks knowledge.
 * Scope of work: Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
 * Experience: Usually at least 2 years of professional experience within given domain.
 
 #### Regular engineer
 
 * Is proficient with language & tools of choice. Not only understands particular features but can also pick the right technique / tool for a given job.
-* Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. Actively seeks knowledge. 
-* Scope of work: Mostly project related related work. Capable of designing new feature with cooperation of more senior engineers. Is able to design architecture on feature/component level assuming requirements are known. 
+* Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. Actively seeks knowledge and shares knowledge (blog posts, workshops, meetups). 
+* Scope of work: Mostly project related work. Capable of designing new feature with cooperation of more senior engineers. Is able to design architecture on feature/component level assuming requirements are known. 
 * Experience: Usually at least 2-5 years of professional experience within given domain.
 
 #### Mid-level engineer
 
-* Experience: usually at least 4-7 years of professional experience within given domain.
+* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Can strike balance between good engineering practice and overengineering. 
+* Can pick tools / processes for given project. Is able to clearly pinpoint specific tradeoffs in technical decision and communicate them clearly to customers or project stakeholders. Can grasp the business domain of a given project. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups). Usually participates in recruitment processes.
+* Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components.
+* Experience: Usually at least 4-7 years of professional experience **and** worked with multiple technologies / domains. 
 
 #### Senior engineer
 
