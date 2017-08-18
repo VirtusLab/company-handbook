@@ -1,6 +1,6 @@
 # Engineering progression
 
-In Virtus Lab we have several levels of progression for engineering positions. This serves double purpose:
+In VirtusLab we have several levels of progression for engineering positions. This serves double purpose:
 
 #### Gives a clear guideline for career progression
 
