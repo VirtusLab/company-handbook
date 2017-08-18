@@ -1,6 +1,6 @@
 # Engineering progression
 
-In VirtusLab we have several levels of progression for engineering positions. This serves double purpose:
+In VirtusLab we have several levels of progression for engineering positions. This serves double purpose.
 
 #### Gives a clear guideline for career progression
 
@@ -14,47 +14,99 @@ Whereas we do not have full transparency for all the salaries within company, we
 
 # Progression levels
 
-Progression level is basically a fancy term for _job title_. It mostly reflects the scope of work particular engineer is capable of driving.
+Progression level is basically a fancy term for _job title_. It mostly reflects the scope of work particular engineer is capable of driving or the impact the engineer has on the organization as whole. It would be beneficial to read first about our [company model and growth strategies](company-model.md) - this will give you the background and reasons behind the major factors driving career progression.
 
-We have basically five levels of engineering positions - ranging from _junior_ to _lead_. Truth be said, although we mostly hire engineers from _regular_ up to _lead_ positions continuously, we rather do not keep the same pace with _junior_ positions. We only open _junior_ position recruitment from time to time. While we recognize the value of bringing _junior_ engineers on board we would like to maintain the level of experienced professionals in our ranks to be the significant majority. 
+Levels proceed sequentially. There are two main drivers behind carreer progression:
+
+* Ability to organize or manage (whatever that means) larger group of engineers. That is in simple terms called - leadership skills.
+
+* Excellent technical expertise connected with skills and achievements in spreading the knowledge within and outside of the company.
+
+Increase of abilities connected with solid track record in above directions is the thing that gives you promotion. Apart from these there are other skills / characteristic that are important on any level of engineering progression - baseline traits. These are:
+
+* Actively seeking knowledge & understanding. "Life is a study" approach.
+
+* Getting things done.
+
+* Clear & honest communication.
+
+* Personal responsibility.
+
+* Being a team player.
+
+An individual who falls short on these base characteristics will not be able to progress (or even keep his position within company) even if (s)he is a world-wide renowned technical speaker.
+
+We have basically five levels of engineering positions - ranging from _junior_ to _principal_. Truth be said, although we mostly hire engineers from _regular_ up to _principal_ positions continuously, we rather do not keep the same pace with _junior_ positions. We only open _junior_ position recruitment from time to time. While we recognize the value of bringing _junior_ engineers on board we would like to maintain the level of experienced professionals in our ranks to be the significant majority. 
 
 You would also find that most of the levels indicate experience levels (as counted in years) significantly higher than industry standards these days (at least in Poland, where we are based). It is not uncommon to see engineers with _senior_ titles who have e.g. less than 3 years of experience under their belt and worked only with single technology or single type of software (say intranet web application). While we certainly believe this is technically possible we are rather sceptical and are deliberately trying to avoid _title inflation_.  
-
-Levels from _junior_ to _mid-level_ proceed sequentially. This is however not the case for _lead_ position. Although typically engineers progress from _senior_ to _lead_ positions this does not need to be the case in every situation. As _lead_ position requires more organizational / management skills, therefore it is not simply a straightforward progression from _senior_ level. Nor it is a desired career progression for every engineer. 
 
 ![Progression Chart](img/progression.png)
 
 #### Junior engineer
 
-* Understands most of typical features of given programming language together with most common patterns and approaches.
-* Requires thorough code review and clear guidelines of what needs to be done next. Actively seeks knowledge.
-* Scope of work: Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
-* Experience: Usually at least 2 years of professional experience within given domain.
+Understands most of typical features of given programming language together with most common patterns and approaches. Requires thorough code review and clear guidelines of what needs to be done next. 
+
+##### Scope of work
+
+Is able to perform efficiently tightly scoped work, usually narrowed down to particular bug fix or introduction of new feature.
+
+##### Experience
+
+Experience: Usually at least 2 years of professional experience within given domain.
 
 #### Regular engineer
 
-* Is proficient with language & tools of choice. Not only understands particular features but can also pick the right technique / tool for a given job.
-* Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. Actively seeks knowledge and shares knowledge (blog posts, workshops, meetups). 
-* Scope of work: Mostly project related work. Capable of designing new feature with cooperation of more senior engineers. Is able to design architecture on feature/component level assuming requirements are known. 
-* Experience: Usually at least 2-5 years of professional experience within given domain.
+Is proficient with language & tools of choice. Not only understands particular features but can also pick the right technique / tool for a given job. Usually knows more than one language or several tools for the job in his/her domain.
+Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. 
+
+##### Scope of work
+
+Mostly project related. Shares knowledge (blog posts, workshops, meetups) or is able to coordinate small initiatives (e.g. organizing a meetup or leading small project with relatively low risks involved). May participate in recruitment process for certain positions.
+
+##### Experience
+
+Usually at least 2-5 years of professional experience within given domain.
 
 #### Mid-level engineer
 
-* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Can strike balance between good engineering practice and overengineering. 
-* Can pick tools / processes for given project. Is able to clearly pinpoint specific tradeoffs in technical decision and communicate them clearly to customers or project stakeholders. Can grasp the business domain of a given project. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups). Usually participates in recruitment processes.
-* Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components.
-* Experience: Usually at least 5-8 years of professional experience **and** worked with multiple technologies / domains. 
+Is proficient with several languages & tools. Can pick up new contexts or domains if needed. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Can strike balance between good engineering practice and overengineering. Can pick tools / processes for given project. Is able to clearly pinpoint specific tradeoffs in technical decision and communicate them clearly to customers or project stakeholders. Can grasp the business domain of a given project.
+
+
+##### Scope of work
+
+Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components or products.
+
+Capable of leading regular project, with several engineers involved or starts to be widely recognized for his/her expertise in the field of choice. Actively shares knowledge (mentoring, conference talks, blog posts, workshops, meetups). 
+
+Usually participates in recruitment processes.
+
+##### Experience
+
+Usually at least 5-8 years of professional experience **and** worked with multiple technologies / domains. 
 
 #### Senior engineer
 
-* Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains. Exceptional technical understanding.
-* Can pick tools / processes for given project. Clearly communicates with customers or project stakeholders. Interacts & drives outside contractors if needed. Actively seeks in-depth understanding of business domain of particular project. Can consult technical / organization decisions for several projects. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
-* Scope of work: Is able to plan & design the architecture on the project-wide level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place. Can drive interactions / integrations between multiple, technologically diverse components. Drives recruitment efforts and participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
-* Experience: Usually at least 8+ years of professional experience within various technological / business domains.
+Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains. Exceptional technical understanding and high communication skills.
 
-#### Lead engineer
+Can pick tools / processes for given project. Clearly communicates with customers or project stakeholders. Interacts & drives outside contractors if needed. Actively seeks in-depth understanding of business domain of particular project. Can consult technical / organization decisions for several projects. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
 
-* High level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering team or teams. 
-* Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
-* Scope of work: Responsible for leading single or cross functional team(s). Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. Participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
-* Experience: Usually at least 10+ years of professional experience within various technological / business domains. Solid experience in team leading positions. 
+##### Scope of work
+
+Is able to plan & design the architecture on the multi-project level. Can discuss requirement with customers / stakeholders. Is able to set up processes in place (e.g. recruitment or set up support procedures). Can drive interactions / integrations between multiple, technologically diverse components. Drives recruitment efforts and participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
+
+##### Experience
+
+Usually at 7-10+ years of professional experience within various technological / business domains.
+
+#### Principal engineer
+
+High level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering team or teams. 
+Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
+
+##### Scope of work
+
+Responsible for leading single or cross functional team(s) within large single project or multiple projects. Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. Participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
+
+##### Experience
+
+Usually 10+ years of professional experience within various technological / business domains. Often solid experience in team leading positions. 
