@@ -119,14 +119,15 @@ We basically should find engineers with potential of growth in one or both of fo
 These two characteristics form the overall dichotomy in our company progression model. To put it bluntly - skills and achievements in above broad directions are the things that brings you promotion. 
 
 Apart from the target directions outlined above there are many skills and characteristics that are required in both of these cases: 
-To be able to grow without overly rigid, corporate rules we need people who can act on their own - without constant guidance. 
 
-People who are self-aware, self-disciplined, people who do not need to be told what to do. 
+* To be able to grow without overly rigid, corporate rules we need people who can act on their own - without constant guidance. 
 
-People with ideas. 
+* People who are self-aware, self-disciplined, people who do not need to be told what to do. 
 
-People who, when they see something broken or missing in our company life, are willing to step out of their role and fix what needs to be fixed. 
+* People with ideas. 
 
-People who can be proactive, not reactive. 
+* People who, when they see something broken or missing in our company life, are willing to step out of their role and fix what needs to be fixed. 
 
-People who are responsible. 
+* People who can be proactive, not reactive. 
+
+* People who are responsible. 
