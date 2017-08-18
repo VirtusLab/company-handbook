@@ -42,7 +42,7 @@ You would also find that most of the levels indicate experience levels (as count
 
 ![Progression Chart](img/progression.png)
 
-#### Junior engineer
+### Junior engineer
 
 Understands most of typical features of given programming language together with most common patterns and approaches. Requires thorough code review and clear guidelines of what needs to be done next. 
 
@@ -54,7 +54,7 @@ Is able to perform efficiently tightly scoped work, usually narrowed down to par
 
 Experience: Usually at least 2 years of professional experience within given domain.
 
-#### Regular engineer
+### Regular engineer
 
 Is proficient with language & tools of choice. Not only understands particular features but can also pick the right technique / tool for a given job. Usually knows more than one language or several tools for the job in his/her domain.
 Understands software process and domain of a given project. Is able to review work of other engineers and solve many technical problems without supervision. 
@@ -67,7 +67,7 @@ Mostly project related. Shares knowledge (blog posts, workshops, meetups) or is 
 
 Usually at least 2-5 years of professional experience within given domain.
 
-#### Mid-level engineer
+### Mid-level engineer
 
 Is proficient with several languages & tools. Can pick up new contexts or domains if needed. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Can strike balance between good engineering practice and overengineering. Can pick tools / processes for given project. Is able to clearly pinpoint specific tradeoffs in technical decision and communicate them clearly to customers or project stakeholders. Can grasp the business domain of a given project.
 
@@ -84,7 +84,7 @@ Usually participates in recruitment processes.
 
 Usually at least 5-8 years of professional experience **and** worked with multiple technologies / domains. 
 
-#### Senior engineer
+### Senior engineer
 
 Is proficient with several languages & tools. Understands software engineering principles and have enough experience & common sense to pick right tool / technique for the job at hand. Was responsible for designing software systems in several business domains. Exceptional technical understanding and high communication skills.
 
@@ -98,14 +98,15 @@ Is able to plan & design the architecture on the multi-project level. Can discus
 
 Usually at 7-10+ years of professional experience within various technological / business domains.
 
-#### Principal engineer
+### Principal engineer
 
-High level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering team or teams. 
-Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups).  Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
+Exceptional level of technical understanding. Able to not only clearly communicate with customers or stakeholders but also kickoff new projects or initiatives. Proficient with leading engineering teams or reckognized in the community. 
+
+Great communicator and leader. Usually this role is divided between technical and organizational / management activities. Able to effectively manage downwards / upwards. Actively shares knowledge (mentoring, conference talks, conference organization, blog posts, workshops, meetups). Is able to make decisions under uncertainty or in situations where complete information is unavailable. 
 
 ##### Scope of work
 
-Responsible for leading single or cross functional team(s) within large single project or multiple projects. Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. Participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
+Responsible for leading single or cross functional teams within large single project or multiple projects. Drives projects or initiatives. Responsible for hiring process in general and building teams for projects in particular. Participates in decisions about career progress of other engineers. Understands economic drivers behind the project and often participates in tactical / strategic decision making processes on company-wide level.
 
 ##### Experience
 
